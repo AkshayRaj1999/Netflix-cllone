@@ -1,0 +1,21 @@
+.NewRelease{
+    margin-left: 20px;
+    color: #fff;
+}
+.NewReleaseCard{
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.NewReleaseCard::-webkit-scrollbar{
+    display: none;
+}
+.NewReleaseImg{
+    max-height: 250px;
+    margin-right: 10px;
+}
+.SmallPoster{
+    max-height: 150px;
+    margin-right: 10px;
+}
